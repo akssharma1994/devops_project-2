@@ -1,1 +1,3 @@
-# devops_project-2
+# maven-project
+
+Simple Maven Project
